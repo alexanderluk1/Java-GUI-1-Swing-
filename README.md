@@ -1,4 +1,4 @@
-# Java-GUI-1-Swing-
+# Java_GUI_1_Swing
 This repo is a small project of exploring and learning about the basics of Java Swing
 
 ## This project involves using 
